@@ -1,2 +1,2 @@
 # Lottie-Animation-Collection
- lottie-react-native usage
+from : https://github.com/lottie-react-native/lottie-react-native
